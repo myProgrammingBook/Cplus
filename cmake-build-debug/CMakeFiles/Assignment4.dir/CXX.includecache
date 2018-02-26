@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Scoth Wisky/CLionProjects/Assignment4/Account.cpp
+Account.h
+C:/Users/Scoth Wisky/CLionProjects/Assignment4/Account.h
+iostream
+-
+
+C:/Users/Scoth Wisky/CLionProjects/Assignment4/Account.h
+
+C:/Users/Scoth Wisky/CLionProjects/Assignment4/CheckingAccount.cpp
+CheckingAccount.h
+C:/Users/Scoth Wisky/CLionProjects/Assignment4/CheckingAccount.h
+
+C:/Users/Scoth Wisky/CLionProjects/Assignment4/CheckingAccount.h
+cmath
+-
+Account.h
+C:/Users/Scoth Wisky/CLionProjects/Assignment4/Account.h
+
+C:/Users/Scoth Wisky/CLionProjects/Assignment4/SavingsAccount.cpp
+SavingsAccount.h
+C:/Users/Scoth Wisky/CLionProjects/Assignment4/SavingsAccount.h
+
+C:/Users/Scoth Wisky/CLionProjects/Assignment4/SavingsAccount.h
+Account.h
+C:/Users/Scoth Wisky/CLionProjects/Assignment4/Account.h
+
+C:/Users/Scoth Wisky/CLionProjects/Assignment4/main.cpp
+iostream
+-
+Account.h
+C:/Users/Scoth Wisky/CLionProjects/Assignment4/Account.h
+SavingsAccount.h
+C:/Users/Scoth Wisky/CLionProjects/Assignment4/SavingsAccount.h
+CheckingAccount.h
+C:/Users/Scoth Wisky/CLionProjects/Assignment4/CheckingAccount.h
+
